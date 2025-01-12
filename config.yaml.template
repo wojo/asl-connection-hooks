@@ -1,0 +1,18 @@
+nodes:
+  my_nodes:
+    - 
+  
+  private_nodes: []
+
+  blocked_nodes: []
+  
+  echolink: null
+
+paths:
+  #node_db: /var/lib/asterisk/astdb.txt
+  node_db: astdb.txt
+
+pushover:
+  enabled: true
+  api_token: 
+  user_key: 
